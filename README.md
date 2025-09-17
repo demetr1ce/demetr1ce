@@ -1,4 +1,4 @@
-# Hello, fellow Hubist 👋
+# Hello 👋
 
 I am Demetrice. Welcome to my sandbox, my time capsule, my collection of odds and evens. I am a full stack software engineer by trade, front-end developer at heart. I've been doing this privately for a long time, but I think it's time to start sharing.
 
