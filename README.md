@@ -5,4 +5,4 @@ I am Demetrice. Welcome to my sandbox, my time capsule, my collection of odds an
 When I'm AFK, you can usually find me hanging out with my family 👨‍👩‍👧, gaming 🎮, hiking ⛰, watching movies 🎥, reading 📚, working around the house 🛠, or on vacation 🏖
 
 ## Tools of the Trade:
-HTML ・ CSS ・ SCSS ・ JavaScript ・ TypeScript ・ React ・ Node ・ Rest API ・ (No)SQL ・ C#/.NET
+C#/.NET ・ Azure (Compute, Networking, Storage, Databases, DevOps) ・ HTML ・ CSS ・ JavaScript ・ TypeScript ・ React ・ APIs ・ SQL
